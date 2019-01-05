@@ -1,0 +1,24 @@
+{
+  "name": "tsnode",
+  "version": "0.0.1",
+  "description": "node+typescript+graphql+express+jwt+mysql+typeorm",
+  "main": "none",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/704826318/ts-express-graphql-jwt-typeorm-mysql.git"
+  },
+  "keywords": [
+    "graphql",
+    "orm",
+    "express"
+  ],
+  "author": "704826318",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/704826318/ts-express-graphql-jwt-typeorm-mysql/issues"
+  },
+  "homepage": "https://github.com/704826318/ts-express-graphql-jwt-typeorm-mysql#readme"
+}
